@@ -1,0 +1,19 @@
+
+.card-container{
+ box-sizing: border-box;
+ padding: 10px 150px;
+ display: flex;
+ flex-wrap: wrap;
+ background-color: #0e0a2a;
+ justify-content: center;
+ align-items: center;
+ margin-top: 5px;
+}
+.heading-title{
+    text-align: center;
+    color: white;
+    padding-top: 150px;
+    line-height: 50px;
+    font-weight: 600;
+    font-size: 4em;
+}

@@ -1,0 +1,33 @@
+
+.team-card{
+    width: 300px;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 30px;
+    background-color: #761f8c;
+    box-shadow: 1px 2px 4px black;
+    border-radius: 5px;
+}
+
+.image-style{
+  width: 100%;
+  
+}
+.card-desc{
+    text-align: center;
+    margin: 0 auto;
+    color: cadetblue;
+}
+.card-desc p {
+    color: white;
+}
+.main-btn{
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: blue;
+    color: wheat;
+    border: none;
+    border-radius: 5px;
+   
+
+}
